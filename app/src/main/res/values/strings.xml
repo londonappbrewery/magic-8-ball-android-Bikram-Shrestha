@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Magic Eight Ball</string>
+    <string name="askButton">ASK</string>
+    <string name="introText">Making your decision easy!!</string>
+    <string name="roll1">Ask Again</string>
+    <string name="roll2">No</string>
+    <string name="roll3">Yes</string>
+    <string name="roll4">No idea</string>
+    <string name="roll5">Answer is Yes</string>
+    <string name="rollImage">Image</string>
+
+
 </resources>
